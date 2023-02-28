@@ -1,0 +1,11 @@
+<div class='wrapper'>
+	<main class='main'>
+		<ul class='main__list'>
+			{{#with data}}
+				<li class='main__item'>
+					<a class='main__link' href='{{this.link}}'>{{this.name}}</a>
+				</li>
+			{{/with}}
+		</ul>
+	</main>
+</div>

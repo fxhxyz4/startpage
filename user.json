@@ -1,5 +1,240 @@
 {
-	"data": {
-		"twitch": ""
+	"refs": {
+		"aws": {
+			"name": "",
+			"link": ""
+		},
+		"azure": {
+			"name": "",
+			"link": ""
+		},
+		"behance": {
+			"name": "",
+			"link": ""
+		},
+		"bing": {
+			"name": "",
+			"link": ""
+		},
+		"bitbucket": {
+			"name": "",
+			"link": ""
+		},
+		"cloudfalre": {
+			"name": "",
+			"link": ""
+		},
+		"codepen": {
+			"name": "",
+			"link": ""
+		},
+		"deviantart": {
+			"name": "",
+			"link": ""
+		},
+		"digitalocean": {
+			"name": "",
+			"link": ""
+		},
+		"discord": {
+			"name": "",
+			"link": ""
+		},
+		"dribble": {
+			"name": "",
+			"link": ""
+		},
+		"dropbox": {
+			"name": "",
+			"link": ""
+		},
+		"duckduckgo": {
+			"name": "",
+			"link": ""
+		},
+		"epicgames": {
+			"name": "",
+			"link": ""
+		},
+		"evernote": {
+			"name": "",
+			"link": ""
+		},
+		"facebook": {
+			"name": "",
+			"link": ""
+		},
+		"faceit": {
+			"name": "",
+			"link": ""
+		},
+		"figma": {
+			"name": "",
+			"link": ""
+		},
+		"fontawesome": {
+			"name": "",
+			"link": ""
+		},
+		"gcp": {
+			"name": "",
+			"link": ""
+		},
+		"gdocs": {
+			"name": "",
+			"link": ""
+		},
+		"gist": {
+			"name": "",
+			"link": ""
+		},
+		"github_dev": {
+			"name": "",
+			"link": ""
+		},
+		"github": {
+			"name": "",
+			"link": ""
+		},
+		"gitlab": {
+			"name": "",
+			"link": ""
+		},
+		"glitch": {
+			"name": "",
+			"link": ""
+		},
+		"gmail": {
+			"name": "",
+			"link": ""
+		},
+		"google_drive": {
+			"name": "",
+			"link": ""
+		},
+		"google_meet": {
+			"name": "",
+			"link": ""
+		},
+		"google": {
+			"name": "",
+			"link": ""
+		},
+		"fonts_google": {
+			"name": "",
+			"link": ""
+		},
+		"heroku": {
+			"name": "",
+			"link": ""
+		},
+		"instagram": {
+			"name": "",
+			"link": ""
+		},
+		"jsfiddle": {
+			"name": "",
+			"link": ""
+		},
+		"mdn": {
+			"name": "",
+			"link": ""
+		},
+		"mega": {
+			"name": "",
+			"link": ""
+		},
+		"messanger": {
+			"name": "",
+			"link": ""
+		},
+		"office": {
+			"name": "",
+			"link": ""
+		},
+		"netflix": {
+			"name": "",
+			"link": ""
+		},
+		"netlify": {
+			"name": "",
+			"link": ""
+		},
+		"notion": {
+			"name": "",
+			"link": ""
+		},
+		"pinterest": {
+			"name": "",
+			"link": ""
+		},
+		"proton_calendar": {
+			"name": "",
+			"link": ""
+		},
+		"proton_mail": {
+			"name": "",
+			"link": ""
+		},
+		"reddit": {
+			"name": "",
+			"link": ""
+		},
+		"sketch": {
+			"name": "",
+			"link": ""
+		},
+		"slack": {
+			"name": "",
+			"link": ""
+		},
+		"soundcloud": {
+			"name": "",
+			"link": ""
+		},
+		"spotify": {
+			"name": "",
+			"link": ""
+		},
+		"stackoverflow": {
+			"name": "",
+			"link": ""
+		},
+		"steam": {
+			"name": "",
+			"link": ""
+		},
+		"telegram": {
+			"name": "",
+			"link": ""
+		},
+		"unsplash": {
+			"name": "",
+			"link": ""
+		},
+		"vercel": {
+			"name": "",
+			"link": ""
+		},
+		"vk": {
+			"name": "",
+			"link": ""
+		},
+		"vscode": {
+			"name": "",
+			"link": ""
+		},
+		"wikipedia": {
+			"name": "",
+			"link": ""
+		},
+		"youtube": {
+			"name": "",
+			"link": ""
+		},
+		"zoom": {
+			"name": "",
+			"link": ""
+		}
 	}
 }
