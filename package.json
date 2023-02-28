@@ -1,0 +1,16 @@
+{
+	"name": "startpage",
+	"version": "1.0.0",
+	"description": "A modern start page",
+	"keywords": [
+		"sass",
+		"startpage",
+		"animatecss",
+		"javascript",
+		"bootstrap"
+	],
+	"author": "fxhxyz <fxhxyz@proton.me> (https://fxhxyz.vercel.app/)",
+	"homepage": "https://fxhxyz.vercel.app/",
+	"bugs": "https://github.com/fxhxyz4/startpage/issues",
+	"license": "MIT"
+}
