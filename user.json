@@ -3,342 +3,546 @@
 		"aws": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"azure": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"behance": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"bing": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"bitbucket": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"cloudfalre": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"codepen": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"deviantart": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"digitalocean": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"discord": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"dribble": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"dropbox": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"duckduckgo": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"epicgames": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"evernote": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"facebook": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"faceit": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"figma": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"fontawesome": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"gcp": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"gdocs": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"gist": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"github_dev": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"github": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"gitlab": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"glitch": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"gmail": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"google_drive": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"google_meet": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"google": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"fonts_google": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"heroku": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"instagram": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"jsfiddle": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"mdn": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"mega": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"messanger": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"office": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"netflix": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"netlify": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"notion": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"pinterest": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"proton_calendar": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"proton_mail": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"reddit": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"sketch": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"slack": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"soundcloud": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"spotify": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"stackoverflow": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"steam": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"telegram": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"twitch": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"twitter": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"unsplash": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"vercel": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"vk": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"vscode": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"wikipedia": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"youtube": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"zoom": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"jira": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"google_translate": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"codewars": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"leetcode": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"exercism": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"linkedin": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		},
 		"google_classroom": {
 			"name": "",
 			"user": "",
-			"link": ""
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
 		}
 	}
 }

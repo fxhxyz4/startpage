@@ -3,7 +3,12 @@
 		<ul class='main__list'>
 			{{#with data}}
 				<li class='main__item'>
-					<a class='main__link' href='{{this.link}}'>{{this.name}}</a>
+					<a class='main__link' href='{{this.link}}{{this.user}}'>
+						<svg class='main__svg' width='{{this.width}}' height='{{this.height}}'>
+							<use href='{{this.svg}}'></use>
+						</svg>
+						{{this.name}}
+					</a>
 				</li>
 			{{/with}}
 		</ul>
