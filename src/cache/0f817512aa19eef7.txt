@@ -187,7 +187,7 @@
 61D:\proj\startpage\node_modules\@parcel\core\src\buildCache.js133200395069160000 0
 55D:\proj\startpage\node_modules\nth-check\lib\index.d.ts133131067632940000 0
 52D:\proj\startpage\node_modules\terser\bin\terser.mjs133220693889500000 0
-56D:\proj\startpage\src\styles\utils\_modern-nomalize.scss133220713656526106 0
+56D:\proj\startpage\src\styles\utils\_modern-nomalize.scss133220714063522080 0
 69D:\proj\startpage\node_modules\@parcel\transformer-html\lib\inline.js133200395100740000 0
 51D:\proj\startpage\node_modules\stable\stable.min.js133131067626280000 0
 48D:\proj\startpage\node_modules\yaml\dist\util.js133131067615510000 0
