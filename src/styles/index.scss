@@ -3,3 +3,15 @@
 
 // vars
 @import './utils/vars';
+
+// mxins
+@import './utils/mixins';
+
+// base(html, body, reset styles)
+@import './components/base';
+
+// main
+@import './components/main';
+
+// footer
+@import './components/footer';

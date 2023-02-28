@@ -1,0 +1,12 @@
+@mixin user-select {
+	user-select: none;
+	-ms-user-select: none;
+	-moz-user-select: none;
+	-webkit-user-select: none;
+}
+
+@mixin dflex {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}

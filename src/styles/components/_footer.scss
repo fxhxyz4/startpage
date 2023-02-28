@@ -1,0 +1,16 @@
+.footer {
+	@include dflex;
+	width: 100px;
+	height: 80px;
+}
+
+.footer__list {
+	@include dflex;
+}
+
+.footer__item {
+	margin-right: 25px;
+	&:last-child {
+		margin-right: 0;
+	}
+}
