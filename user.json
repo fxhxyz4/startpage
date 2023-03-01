@@ -1,629 +1,627 @@
 {
-	"refs": [
-		{
-			"abstractfonts": {
-				"name": "AbstractFonts",
-				"link": "abstractfonts.com/members/2ebfda",
-				"svg": "./src/img/svg/abstractfonts.svg",
-				"width": "50",
-				"height": "50"
-			},
-			"aws": {
-				"name": "AWS",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"azure": {
-				"name": "Azure",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"behance": {
-				"name": "Behance",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"bing": {
-				"name": "Bing",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"bitbucket": {
-				"name": "Bitbucket",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"cloudfalre": {
-				"name": "Cloudflare",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"codeby": {
-				"name": "Codeby",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"codepen": {
-				"name": "Codepen",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"codewars": {
-				"name": "Codewars",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"cybershoke": {
-				"name": "Cybershoke",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"dafont": {
-				"name": "DaFont",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"devdocs": {
-				"name": "DevDocs",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"deviantart": {
-				"name": "DeviantArt",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"digitalocean": {
-				"name": "DigitalOcean",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"discord": {
-				"name": "Discord",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"dribble": {
-				"name": "Dribble",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"dropbox": {
-				"name": "Dropbox",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"duckduckgo": {
-				"name": "DuckDuckGo",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"epicgames": {
-				"name": "EpicGames",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"evernote": {
-				"name": "Evernote",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"exercism": {
-				"name": "Exercism",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"facebook": {
-				"name": "Facebook",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"faceit": {
-				"name": "Faceit",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"favicon_cc": {
-				"name": "FaviconCC",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"favicon_generator": {
-				"name": "FaviconGenerator",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"favicon_ru": {
-				"name": "FaviconRU",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"figma": {
-				"name": "Figma",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"fontawesome": {
-				"name": "FontAwesome",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"fontspace": {
-				"name": "FontSpace",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"fontsquirrel": {
-				"name": "FontsQuirrel",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"fontstruct": {
-				"name": "FontStruct",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"freefonts": {
-				"name": "FreeFonts",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"gcp": {
-				"name": "GCP",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"gdocs": {
-				"name": "Google Docs",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"gist": {
-				"name": "gist",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"github_dev": {
-				"name": "github dev",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"github": {
-				"name": "GitHub",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"gitlab": {
-				"name": "GitLab",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"glitch": {
-				"name": "Glitch",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"gmail": {
-				"name": "Google mail",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"google_drive": {
-				"name": "Google Drive",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"google_translate": {
-				"name": "Google Translate",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"google_classroom": {
-				"name": "Google Classroom",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"google_meet": {
-				"name": "Google Meet",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"google": {
-				"name": "Google",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"fonts_google": {
-				"name": "Google Fonts",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"heroku": {
-				"name": "Heroku",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"instagram": {
-				"name": "Instagram",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"javascript": {
-				"name": "JavaScriptRU",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"jira": {
-				"name": "Jira",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"jsfiddle": {
-				"name": "JSFiddle",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"leetcode": {
-				"name": "Leetcode",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"linkedin": {
-				"name": "LinkedIn",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"mdn": {
-				"name": "MDN",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"mega": {
-				"name": "Mega",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"messanger": {
-				"name": "Messanger",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"office": {
-				"name": "Office365",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"netflix": {
-				"name": "Netflix",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"netlify": {
-				"name": "Netlify",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"notion": {
-				"name": "Notion",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"optimizilla": {
-				"name": "Optimizilla",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"pinterest": {
-				"name": "Pinterest",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"proton_calendar": {
-				"name": "Proton Calendar",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"proton_mail": {
-				"name": "Proton Mail",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"reddit": {
-				"name": "Reddit",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"seo": {
-				"name": "SEO",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"sketch": {
-				"name": "Sketch",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"slack": {
-				"name": "Slack",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"soundcloud": {
-				"name": "SoundCloud",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"spotify": {
-				"name": "Spotify",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"squosh": {
-				"name": "Squosh",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"stackoverflow": {
-				"name": "StackOverflow",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"steam": {
-				"name": "Steam",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"svgomg": {
-				"name": "SvgOmg",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"telegram": {
-				"name": "Telegram",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"tiktok": {
-				"name": "TikTok",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"twitch": {
-				"name": "Twitch",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"twitter": {
-				"name": "Twitter",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"uigradients": {
-				"name": "UiGradients",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"unsplash": {
-				"name": "Unsplash",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"urbanfonts": {
-				"name": "UrbanFonts",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"vercel": {
-				"name": "Vercel",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"vk": {
-				"name": "VK",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"vscode": {
-				"name": "vscode",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"webfonts": {
-				"name": "WebFonts",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"wikipedia": {
-				"name": "Wikipedia",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"youtube": {
-				"name": "YouTube",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			},
-			"zoom": {
-				"name": "Zoom",
-				"link": "",
-				"svg": "",
-				"width": "",
-				"height": ""
-			}
+	"data": {
+		"abstractfonts": {
+			"name": "AbstractFonts",
+			"link": "abstractfonts.com/members/2ebfda",
+			"svg": "./img/svg/abstractfonts.svg",
+			"width": "50",
+			"height": "50"
+		},
+		"aws": {
+			"name": "AWS",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"azure": {
+			"name": "Azure",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"behance": {
+			"name": "Behance",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"bing": {
+			"name": "Bing",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"bitbucket": {
+			"name": "Bitbucket",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"cloudfalre": {
+			"name": "Cloudflare",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"codeby": {
+			"name": "Codeby",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"codepen": {
+			"name": "Codepen",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"codewars": {
+			"name": "Codewars",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"cybershoke": {
+			"name": "Cybershoke",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"dafont": {
+			"name": "DaFont",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"devdocs": {
+			"name": "DevDocs",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"deviantart": {
+			"name": "DeviantArt",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"digitalocean": {
+			"name": "DigitalOcean",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"discord": {
+			"name": "Discord",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"dribble": {
+			"name": "Dribble",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"dropbox": {
+			"name": "Dropbox",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"duckduckgo": {
+			"name": "DuckDuckGo",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"epicgames": {
+			"name": "EpicGames",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"evernote": {
+			"name": "Evernote",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"exercism": {
+			"name": "Exercism",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"facebook": {
+			"name": "Facebook",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"faceit": {
+			"name": "Faceit",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"favicon_cc": {
+			"name": "FaviconCC",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"favicon_generator": {
+			"name": "FaviconGenerator",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"favicon_ru": {
+			"name": "FaviconRU",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"figma": {
+			"name": "Figma",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"fontawesome": {
+			"name": "FontAwesome",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"fontspace": {
+			"name": "FontSpace",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"fontsquirrel": {
+			"name": "FontsQuirrel",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"fontstruct": {
+			"name": "FontStruct",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"freefonts": {
+			"name": "FreeFonts",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"gcp": {
+			"name": "GCP",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"gdocs": {
+			"name": "Google Docs",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"gist": {
+			"name": "gist",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"github_dev": {
+			"name": "github dev",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"github": {
+			"name": "GitHub",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"gitlab": {
+			"name": "GitLab",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"glitch": {
+			"name": "Glitch",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"gmail": {
+			"name": "Google mail",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"google_drive": {
+			"name": "Google Drive",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"google_translate": {
+			"name": "Google Translate",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"google_classroom": {
+			"name": "Google Classroom",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"google_meet": {
+			"name": "Google Meet",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"google": {
+			"name": "Google",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"fonts_google": {
+			"name": "Google Fonts",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"heroku": {
+			"name": "Heroku",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"instagram": {
+			"name": "Instagram",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"javascript": {
+			"name": "JavaScriptRU",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"jira": {
+			"name": "Jira",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"jsfiddle": {
+			"name": "JSFiddle",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"leetcode": {
+			"name": "Leetcode",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"linkedin": {
+			"name": "LinkedIn",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"mdn": {
+			"name": "MDN",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"mega": {
+			"name": "Mega",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"messanger": {
+			"name": "Messanger",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"office": {
+			"name": "Office365",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"netflix": {
+			"name": "Netflix",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"netlify": {
+			"name": "Netlify",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"notion": {
+			"name": "Notion",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"optimizilla": {
+			"name": "Optimizilla",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"pinterest": {
+			"name": "Pinterest",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"proton_calendar": {
+			"name": "Proton Calendar",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"proton_mail": {
+			"name": "Proton Mail",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"reddit": {
+			"name": "Reddit",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"seo": {
+			"name": "SEO",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"sketch": {
+			"name": "Sketch",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"slack": {
+			"name": "Slack",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"soundcloud": {
+			"name": "SoundCloud",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"spotify": {
+			"name": "Spotify",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"squosh": {
+			"name": "Squosh",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"stackoverflow": {
+			"name": "StackOverflow",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"steam": {
+			"name": "Steam",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"svgomg": {
+			"name": "SvgOmg",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"telegram": {
+			"name": "Telegram",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"tiktok": {
+			"name": "TikTok",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"twitch": {
+			"name": "Twitch",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"twitter": {
+			"name": "Twitter",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"uigradients": {
+			"name": "UiGradients",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"unsplash": {
+			"name": "Unsplash",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"urbanfonts": {
+			"name": "UrbanFonts",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"vercel": {
+			"name": "Vercel",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"vk": {
+			"name": "VK",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"vscode": {
+			"name": "vscode",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"webfonts": {
+			"name": "WebFonts",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"wikipedia": {
+			"name": "Wikipedia",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"youtube": {
+			"name": "YouTube",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"zoom": {
+			"name": "Zoom",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
 		}
-	]
+	}
 }

@@ -1,16 +1,23 @@
+'use strict';
+console.clear();
+
 const Handlebars = require('handlebars');
 const data = require('../../user.json').data;
 const main = document.querySelector('.main');
 import hbs from './templates/render.hbs';
 
-function data() {
-	console.log(data);
+const values = Object.values(data);
 
-	renderHtml();
-}
+values.forEach(item => {
+	console.log(item);
+});
 
-data();
+// function renderHtml() {
+// 	const values = Object.values(data);
 
-function renderHtml() {
-	main.insertAdjacentHTML('beforeend', hbs(hbs));
-}
+// 	values.forEach(item => {
+// 		main.insertAdjacentHTML('beforeend', hbs(item));
+// 	});
+// }
+
+// renderHtml();
