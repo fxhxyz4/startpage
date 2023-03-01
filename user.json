@@ -1,5 +1,13 @@
 {
 	"refs": {
+		"abstractfonts": {
+			"name": "",
+			"user": "",
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
+		},
 		"aws": {
 			"name": "",
 			"user": "",
@@ -48,7 +56,47 @@
 			"width": "",
 			"height": ""
 		},
+		"codeby": {
+			"name": "",
+			"user": "",
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
+		},
 		"codepen": {
+			"name": "",
+			"user": "",
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
+		},
+		"codewars": {
+			"name": "",
+			"user": "",
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
+		},
+		"cybershoke": {
+			"name": "",
+			"user": "",
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
+		},
+		"dafont": {
+			"name": "",
+			"user": "",
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
+		},
+		"devdocs": {
 			"name": "",
 			"user": "",
 			"link": "",
@@ -120,6 +168,14 @@
 			"width": "",
 			"height": ""
 		},
+		"exercism": {
+			"name": "",
+			"user": "",
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
+		},
 		"facebook": {
 			"name": "",
 			"user": "",
@@ -136,6 +192,30 @@
 			"width": "",
 			"height": ""
 		},
+		"favicon_cc": {
+			"name": "",
+			"user": "",
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
+		},
+		"favicon_generator": {
+			"name": "",
+			"user": "",
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
+		},
+		"favicon_ru": {
+			"name": "",
+			"user": "",
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
+		},
 		"figma": {
 			"name": "",
 			"user": "",
@@ -145,6 +225,38 @@
 			"height": ""
 		},
 		"fontawesome": {
+			"name": "",
+			"user": "",
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
+		},
+		"fontspace": {
+			"name": "",
+			"user": "",
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
+		},
+		"fontsquirrel": {
+			"name": "",
+			"user": "",
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
+		},
+		"fontstruct": {
+			"name": "",
+			"user": "",
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
+		},
+		"freefonts": {
 			"name": "",
 			"user": "",
 			"link": "",
@@ -224,6 +336,22 @@
 			"width": "",
 			"height": ""
 		},
+		"google_translate": {
+			"name": "",
+			"user": "",
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
+		},
+		"google_classroom": {
+			"name": "",
+			"user": "",
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
+		},
 		"google_meet": {
 			"name": "",
 			"user": "",
@@ -264,7 +392,39 @@
 			"width": "",
 			"height": ""
 		},
+		"javascript": {
+			"name": "",
+			"user": "",
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
+		},
+		"jira": {
+			"name": "",
+			"user": "",
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
+		},
 		"jsfiddle": {
+			"name": "",
+			"user": "",
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
+		},
+		"leetcode": {
+			"name": "",
+			"user": "",
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
+		},
+		"linkedin": {
 			"name": "",
 			"user": "",
 			"link": "",
@@ -328,6 +488,14 @@
 			"width": "",
 			"height": ""
 		},
+		"optimizilla": {
+			"name": "",
+			"user": "",
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
+		},
 		"pinterest": {
 			"name": "",
 			"user": "",
@@ -353,6 +521,14 @@
 			"height": ""
 		},
 		"reddit": {
+			"name": "",
+			"user": "",
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
+		},
+		"seo": {
 			"name": "",
 			"user": "",
 			"link": "",
@@ -392,6 +568,14 @@
 			"width": "",
 			"height": ""
 		},
+		"squosh": {
+			"name": "",
+			"user": "",
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
+		},
 		"stackoverflow": {
 			"name": "",
 			"user": "",
@@ -408,7 +592,23 @@
 			"width": "",
 			"height": ""
 		},
+		"svgomg": {
+			"name": "",
+			"user": "",
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
+		},
 		"telegram": {
+			"name": "",
+			"user": "",
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
+		},
+		"tiktok": {
 			"name": "",
 			"user": "",
 			"link": "",
@@ -432,7 +632,23 @@
 			"width": "",
 			"height": ""
 		},
+		"uigradients": {
+			"name": "",
+			"user": "",
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
+		},
 		"unsplash": {
+			"name": "",
+			"user": "",
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
+		},
+		"urbanfonts": {
 			"name": "",
 			"user": "",
 			"link": "",
@@ -464,6 +680,14 @@
 			"width": "",
 			"height": ""
 		},
+		"webfonts": {
+			"name": "",
+			"user": "",
+			"link": "",
+			"svg": "",
+			"width": "",
+			"height": ""
+		},
 		"wikipedia": {
 			"name": "",
 			"user": "",
@@ -481,62 +705,6 @@
 			"height": ""
 		},
 		"zoom": {
-			"name": "",
-			"user": "",
-			"link": "",
-			"svg": "",
-			"width": "",
-			"height": ""
-		},
-		"jira": {
-			"name": "",
-			"user": "",
-			"link": "",
-			"svg": "",
-			"width": "",
-			"height": ""
-		},
-		"google_translate": {
-			"name": "",
-			"user": "",
-			"link": "",
-			"svg": "",
-			"width": "",
-			"height": ""
-		},
-		"codewars": {
-			"name": "",
-			"user": "",
-			"link": "",
-			"svg": "",
-			"width": "",
-			"height": ""
-		},
-		"leetcode": {
-			"name": "",
-			"user": "",
-			"link": "",
-			"svg": "",
-			"width": "",
-			"height": ""
-		},
-		"exercism": {
-			"name": "",
-			"user": "",
-			"link": "",
-			"svg": "",
-			"width": "",
-			"height": ""
-		},
-		"linkedin": {
-			"name": "",
-			"user": "",
-			"link": "",
-			"svg": "",
-			"width": "",
-			"height": ""
-		},
-		"google_classroom": {
 			"name": "",
 			"user": "",
 			"link": "",
