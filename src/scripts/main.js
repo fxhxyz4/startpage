@@ -1,7 +1,16 @@
 const Handlebars = require('handlebars');
 const data = require('../../user.json').data;
-import hbs from './components/render.hbs';
+const main = document.querySelector('.main');
+import hbs from './templates/render.hbs';
 
-function onObject() {}
+function data() {
+	console.log(data);
 
-onObject();
+	renderHtml();
+}
+
+data();
+
+function renderHtml() {
+	main.insertAdjacentHTML('beforeend', hbs(hbs));
+}
