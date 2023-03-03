@@ -4,7 +4,7 @@
 	],
 	"transformers": {
 		"*.hbs": [
-			"parcel-transformer-handlebars"
+			"parcel-transformer-hbs"
 		]
 	}
 }
