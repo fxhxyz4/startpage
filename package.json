@@ -7,12 +7,11 @@
 		"startpage",
 		"animatecss",
 		"javascript",
-		"bootstrap"
+		"hbs"
 	],
 	"author": "fxhxyz <fxhxyz@proton.me> (https://fxhxyz.vercel.app/)",
 	"homepage": "https://fxhxyz.vercel.app/",
 	"bugs": "https://github.com/fxhxyz4/startpage/issues",
-	"license": "MIT",
 	"scripts": {
 		"dev": "parcel ./src/index.html --dist-dir dist --cache-dir ./src/cache --no-source-maps -p 1010",
 		"watch": "parcel watch ./src/index.html --dist-dir dist --cache-dir ./src/cache --no-source-maps",

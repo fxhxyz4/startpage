@@ -618,8 +618,8 @@
 		},
 		"zoom": {
 			"name": "Zoom",
-			"link": "",
-			"svg": "",
+			"link": "us05web.zoom.us/profile",
+			"svg": "./img/svg/zoom.svg",
 			"width": "50",
 			"height": "50"
 		}

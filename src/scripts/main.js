@@ -8,13 +8,13 @@ import hbs from './templates/render.hbs';
 function renderHtml() {
 	const values = Object.values(data);
 
-	values.forEach(item => {
-		console.log(item);
-
-		const markup = hbs(item);
-
-		main.innerHTML = markup;
-	});
+	values
+		.map(item => {
+			console.log(item);
+			const markup = hbs(item);
+			main.innerHTML = markup;
+		})
+		.join(' ');
 }
 
 renderHtml();

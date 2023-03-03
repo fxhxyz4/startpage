@@ -1,0 +1,9 @@
+.main__list {
+	@include dflex;
+}
+
+.main__item {
+	margin-right: 30px;
+	margin-bottom: 30px;
+	@include dflex;
+}

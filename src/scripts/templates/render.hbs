@@ -1,12 +1,8 @@
 <ul class='main__list'>
-	{{#each refs}}
-		<li class='main__item'>
-			<a class='main__link' href='https://{{this.link}}'>
-				<svg class='main__svg' width='{{this.width}}' height='{{this.height}}'>
-					<use href='{{this.svg}}'></use>
-				</svg>
-				{{this.name}}
-			</a>
-		</li>
-	{{/each}}
+	<li class='main__item'>
+		<a class='main__link' href='https://{{this.link}}' target='_blank' rel='noopener noreferrer nofollow'>
+			<img class='main__svg' src='{{this.svg}}' width='{{this.width}}' height='{{this.height}}' alt='{{this.name}} logo' />
+			{{this.name}}
+		</a>
+	</li>
 </ul>
