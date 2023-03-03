@@ -36,6 +36,7 @@ strong {
 	min-height: 100%;
 	display: flex;
 	flex-direction: column;
+	z-index: 9999;
 }
 main {
 	flex: 1 1 auto;

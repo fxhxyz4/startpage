@@ -1,0 +1,105 @@
+.light {
+	position: absolute;
+	width: 0px;
+	opacity: 0.75;
+	background-color: white;
+	box-shadow: #e9f1f1 0px 0px 20px 2px;
+	opacity: 0;
+	top: 100vh;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	margin: auto;
+}
+
+.anim {
+	-webkit-animation: floatUp 4s infinite linear;
+	-moz-animation: floatUp 4s infinite linear;
+	-o-animation: floatUp 4s infinite linear;
+	animation: floatUp 4s infinite linear;
+	-webkit-transform: scale(1);
+	-moz-transform: scale(1);
+	-o-transform: scale(1);
+	transform: scale(1);
+}
+
+@-webkit-keyframes floatUp {
+	0% {
+		top: 100vh;
+		opacity: 0;
+	}
+	25% {
+		opacity: 1;
+	}
+	50% {
+		top: 0vh;
+		opacity: 0.8;
+	}
+	75% {
+		opacity: 1;
+	}
+	100% {
+		top: -100vh;
+		opacity: 0;
+	}
+}
+@-moz-keyframes floatUp {
+	0% {
+		top: 100vh;
+		opacity: 0;
+	}
+	25% {
+		opacity: 1;
+	}
+	50% {
+		top: 0vh;
+		opacity: 0.8;
+	}
+	75% {
+		opacity: 1;
+	}
+	100% {
+		top: -100vh;
+		opacity: 0;
+	}
+}
+@-o-keyframes floatUp {
+	0% {
+		top: 100vh;
+		opacity: 0;
+	}
+	25% {
+		opacity: 1;
+	}
+	50% {
+		top: 0vh;
+		opacity: 0.8;
+	}
+	75% {
+		opacity: 1;
+	}
+	100% {
+		top: -100vh;
+		opacity: 0;
+	}
+}
+@keyframes floatUp {
+	0% {
+		top: 100vh;
+		opacity: 0;
+	}
+	25% {
+		opacity: 1;
+	}
+	50% {
+		top: 0vh;
+		opacity: 0.8;
+	}
+	75% {
+		opacity: 1;
+	}
+	100% {
+		top: -100vh;
+		opacity: 0;
+	}
+}
