@@ -42,6 +42,20 @@
 			"width": "50",
 			"height": "50"
 		},
+		"blogger": {
+			"name": "Blogger",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"cdnjs": {
+			"name": "cdnjs",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
 		"cloudfalre": {
 			"name": "Cloudflare",
 			"link": "",
@@ -163,6 +177,13 @@
 		},
 		"faceit": {
 			"name": "Faceit",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"fastly": {
+			"name": "Fastly",
 			"link": "",
 			"svg": "",
 			"width": "50",
@@ -357,6 +378,13 @@
 			"width": "50",
 			"height": "50"
 		},
+		"jsdelivr": {
+			"name": "Jsdelivr",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
 		"jsfiddle": {
 			"name": "JSFiddle",
 			"link": "",
@@ -373,6 +401,13 @@
 		},
 		"linkedin": {
 			"name": "LinkedIn",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"loom": {
+			"name": "loom",
 			"link": "",
 			"svg": "",
 			"width": "50",
@@ -422,6 +457,13 @@
 		},
 		"notion": {
 			"name": "Notion",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
+		"npm": {
+			"name": "Npm",
 			"link": "",
 			"svg": "",
 			"width": "50",
