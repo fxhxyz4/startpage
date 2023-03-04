@@ -20,8 +20,7 @@ function renderHtml() {
 function addAnimations() {
 	for (let i = 0; i < 10; i++) {
 		const div = document.createElement('div');
-		div.classList.add('light');
-		div.classList.add('anim');
+		div.classList.add('light', 'anim');
 	}
 }
 addAnimations();

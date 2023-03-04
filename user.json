@@ -497,6 +497,13 @@
 			"width": "50",
 			"height": "50"
 		},
+		"openai": {
+			"name": "ChatGPT",
+			"link": "",
+			"svg": "",
+			"width": "50",
+			"height": "50"
+		},
 		"reddit": {
 			"name": "Reddit",
 			"link": "",

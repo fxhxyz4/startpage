@@ -1,7 +1,9 @@
 <ul class='main__list'>
 	<li class='main__item'>
 		<a class='main__link' href='https://{{this.link}}' target='_blank' rel='noopener noreferrer nofollow'>
-			<img class='main__svg' src='{{this.svg}}' width='{{this.width}}' height='{{this.height}}' alt='{{this.name}} logo' />
+			<svg class='main__svg' width='{{this.width}}' height='{{this.height}}' aria-label='{{this.name}} logo'>
+				<use xlink:href='{{this.svg}}-{{this.name}}'></use>
+			</svg>
 			{{this.name}}
 		</a>
 	</li>

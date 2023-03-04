@@ -13,6 +13,10 @@ html {
 }
 
 body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
 	margin: 0 auto;
 	text-align: center;
 	background: #000;
@@ -32,12 +36,14 @@ a {
 strong {
 	color: red;
 }
+
 .wrapper {
-	min-height: 100%;
+	min-height: 100vh;
 	display: flex;
 	flex-direction: column;
 	z-index: 9999;
 }
-main {
+
+.main {
 	flex: 1 1 auto;
 }
