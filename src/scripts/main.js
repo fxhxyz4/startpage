@@ -1,5 +1,5 @@
 const main = document.querySelector('.main__list');
-import data from '../../user.json';
+import data from '../../data/user.json';
 
 function getData() {
 	const valuesArray = Object.values(data);
