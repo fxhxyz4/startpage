@@ -1,0 +1,534 @@
+{
+	"abstractfonts": {
+		"name": "AbstractFonts",
+		"link": "abstractfonts.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-abstractfonts",
+		"width": 50,
+		"height": 50
+	},
+	"aws": {
+		"name": "AWS",
+		"link": "aws.amazon.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-aws",
+		"width": 50,
+		"height": 50
+	},
+	"azure": {
+		"name": "Azure",
+		"link": "azure.microsoft.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-azure",
+		"width": 50,
+		"height": 50
+	},
+	"behance": {
+		"name": "Behance",
+		"link": "behance.net",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-behance",
+		"width": 50,
+		"height": 50
+	},
+	"bitbucket": {
+		"name": "Bitbucket",
+		"link": "bitbucket.org",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-bitbucket",
+		"width": 50,
+		"height": 50
+	},
+	"blogger": {
+		"name": "Blogger",
+		"link": "blogger.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-blogger",
+		"width": 50,
+		"height": 50
+	},
+	"cdnjs": {
+		"name": "cdnjs",
+		"link": "cdnjs.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-cdnjs",
+		"width": 50,
+		"height": 50
+	},
+	"cloudfalre": {
+		"name": "Cloudflare",
+		"link": "cloudflare.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-cloudflare",
+		"width": 50,
+		"height": 50
+	},
+	"codeby": {
+		"name": "Codeby",
+		"link": "codeby.net",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-codeby",
+		"width": 50,
+		"height": 50
+	},
+	"codepen": {
+		"name": "Codepen",
+		"link": "codepen.io",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-codepen",
+		"width": 50,
+		"height": 50
+	},
+	"codewars": {
+		"name": "Codewars",
+		"link": "codewars.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-codewars",
+		"width": 50,
+		"height": 50
+	},
+	"cybershoke": {
+		"name": "Cybershoke",
+		"link": "cybershoke.net",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-cybershoke",
+		"width": 50,
+		"height": 50
+	},
+	"dafont": {
+		"name": "DaFont",
+		"link": "dafont.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-dafont",
+		"width": 50,
+		"height": 50
+	},
+	"devdocs": {
+		"name": "DevDocs",
+		"link": "devdocs.io",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-devdocs",
+		"width": 50,
+		"height": 50
+	},
+	"deviantart": {
+		"name": "DeviantArt",
+		"link": "deviantart.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-deviantart",
+		"width": 50,
+		"height": 50
+	},
+	"dribble": {
+		"name": "Dribbble",
+		"link": "dribbble.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-dribbble",
+		"width": 50,
+		"height": 50
+	},
+	"dropbox": {
+		"name": "Dropbox",
+		"link": "dropbox.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-dropbox",
+		"width": 50,
+		"height": 50
+	},
+	"duckduckgo": {
+		"name": "DuckDuckGo",
+		"link": "duckduckgo.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-duckduckgo",
+		"width": 50,
+		"height": 50
+	},
+	"evernote": {
+		"name": "Evernote",
+		"link": "evernote.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-evernote",
+		"width": 50,
+		"height": 50
+	},
+	"exercism": {
+		"name": "Exercism",
+		"link": "exercism.org",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-exercism",
+		"width": 50,
+		"height": 50
+	},
+	"faceit": {
+		"name": "Faceit",
+		"link": "faceit.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-faceit",
+		"width": 50,
+		"height": 50
+	},
+	"fastly": {
+		"name": "Fastly",
+		"link": "fastly.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-fastly",
+		"width": 50,
+		"height": 50
+	},
+	"favicon_cc": {
+		"name": "FaviconCC",
+		"link": "favicon.cc",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-favicon",
+		"width": 50,
+		"height": 50
+	},
+	"favicon_generator": {
+		"name": "FaviconGenerator",
+		"link": "favicon-generator.org",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-favicon-generator",
+		"width": 50,
+		"height": 50
+	},
+	"figma": {
+		"name": "Figma",
+		"link": "figma.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-figma",
+		"width": 50,
+		"height": 50
+	},
+	"fontawesome": {
+		"name": "FontAwesome",
+		"link": "fontawesome",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-fontawesome",
+		"width": 50,
+		"height": 50
+	},
+	"fontspace": {
+		"name": "FontSpace",
+		"link": "fontspace.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-fontspace",
+		"width": 50,
+		"height": 50
+	},
+	"fontsquirrel": {
+		"name": "FontsSquirrel",
+		"link": "fontssquirrel.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-fontssquirrel",
+		"width": 50,
+		"height": 50
+	},
+	"fontstruct": {
+		"name": "FontStruct",
+		"link": "fontstruct.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-fontstruct",
+		"width": 50,
+		"height": 50
+	},
+	"freefonts": {
+		"name": "FreeFonts",
+		"link": "1001freefonts.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-freefonts",
+		"width": 50,
+		"height": 50
+	},
+	"gcp": {
+		"name": "GCP",
+		"link": "cloud.google.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-gcp",
+		"width": 50,
+		"height": 50
+	},
+	"gdocs": {
+		"name": "Google Docs",
+		"link": "docs.google.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-gdocs",
+		"width": 50,
+		"height": 50
+	},
+	"gist": {
+		"name": "gist",
+		"link": "gist.github.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-gist-github",
+		"width": 50,
+		"height": 50
+	},
+	"github": {
+		"name": "GitHub",
+		"link": "github.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-github",
+		"width": 50,
+		"height": 50
+	},
+	"gitlab": {
+		"name": "GitLab",
+		"link": "gitlab.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-gitlab",
+		"width": 50,
+		"height": 50
+	},
+	"gmail": {
+		"name": "Google mail",
+		"link": "mail.google.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-gmail",
+		"width": 50,
+		"height": 50
+	},
+	"google_drive": {
+		"name": "Google Drive",
+		"link": "google.com/drive",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-google-drive",
+		"width": 50,
+		"height": 50
+	},
+	"google_meet": {
+		"name": "Google Meet",
+		"link": "meet.google.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-google-meet",
+		"width": 50,
+		"height": 50
+	},
+	"fonts_google": {
+		"name": "Google Fonts",
+		"link": "fonts.google.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-googlefonts",
+		"width": 50,
+		"height": 50
+	},
+	"heroku": {
+		"name": "Heroku",
+		"link": "heroku.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-heroku",
+		"width": 50,
+		"height": 50
+	},
+	"jira": {
+		"name": "Jira",
+		"link": "jira.atlassian.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-jira",
+		"width": 50,
+		"height": 50
+	},
+	"jsdelivr": {
+		"name": "Jsdelivr",
+		"link": "jsdelivr.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-jsdelivr",
+		"width": 50,
+		"height": 50
+	},
+	"jsfiddle": {
+		"name": "JSFiddle",
+		"link": "jsfiddle.net",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-jsfiddle",
+		"width": 50,
+		"height": 50
+	},
+	"leetcode": {
+		"name": "Leetcode",
+		"link": "leetcode.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-leetcode",
+		"width": 50,
+		"height": 50
+	},
+	"linkedin": {
+		"name": "LinkedIn",
+		"link": "linkedin.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-linkedin",
+		"width": 50,
+		"height": 50
+	},
+	"loom": {
+		"name": "loom",
+		"link": "loom.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-loom",
+		"width": 50,
+		"height": 50
+	},
+	"mdn": {
+		"name": "MDN",
+		"link": "developer.mozilla.org",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-mdn",
+		"width": 50,
+		"height": 50
+	},
+	"mega": {
+		"name": "Mega",
+		"link": "mega.io",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-mega",
+		"width": 50,
+		"height": 50
+	},
+	"netflix": {
+		"name": "Netflix",
+		"link": "netflix.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-netflix",
+		"width": 50,
+		"height": 50
+	},
+	"netlify": {
+		"name": "Netlify",
+		"link": "netlify.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-netlify",
+		"width": 50,
+		"height": 50
+	},
+	"notion": {
+		"name": "Notion",
+		"link": "notion.so",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-notion",
+		"width": 50,
+		"height": 50
+	},
+	"npm": {
+		"name": "Npm",
+		"link": "npmjs.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-npm",
+		"width": 50,
+		"height": 50
+	},
+	"optimizilla": {
+		"name": "Optimizilla",
+		"link": "imagecompressor.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-optimizilla",
+		"width": 50,
+		"height": 50
+	},
+	"pinterest": {
+		"name": "Pinterest",
+		"link": "pinterest.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-pinterest",
+		"width": 50,
+		"height": 50
+	},
+	"proton_calendar": {
+		"name": "Proton Calendar",
+		"link": "proton.me/calendar",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-proton-calendar",
+		"width": 50,
+		"height": 50
+	},
+	"proton_mail": {
+		"name": "Proton Mail",
+		"link": "proton.me/mail",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-proton-mail",
+		"width": 50,
+		"height": 50
+	},
+	"reddit": {
+		"name": "Reddit",
+		"link": "reddit.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-reddit",
+		"width": 50,
+		"height": 50
+	},
+	"sketch": {
+		"name": "Sketch",
+		"link": "sketch.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-sketch",
+		"width": 50,
+		"height": 50
+	},
+	"slack": {
+		"name": "Slack",
+		"link": "slack.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-slack",
+		"width": 50,
+		"height": 50
+	},
+	"soundcloud": {
+		"name": "SoundCloud",
+		"link": "soundcloud.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-soundcloud",
+		"width": 50,
+		"height": 50
+	},
+	"spotify": {
+		"name": "Spotify",
+		"link": "open.spotify.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-spotify",
+		"width": 50,
+		"height": 50
+	},
+	"squosh": {
+		"name": "Squoosh",
+		"link": "squoosh.app",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-squoosh",
+		"width": 50,
+		"height": 50
+	},
+	"stackoverflow": {
+		"name": "StackOverflow",
+		"link": "stackoverflow.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-stackoverflow",
+		"width": 50,
+		"height": 50
+	},
+	"steam": {
+		"name": "Steam",
+		"link": "store.steampowered.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-steam",
+		"width": 50,
+		"height": 50
+	},
+	"svgomg": {
+		"name": "SvgOmg",
+		"link": "svgomg.net",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-svgomg",
+		"width": 50,
+		"height": 50
+	},
+	"twitter": {
+		"name": "Twitter",
+		"link": "twitter.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-twitter",
+		"width": 50,
+		"height": 50
+	},
+	"uigradients": {
+		"name": "UiGradients",
+		"link": "uigradients.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-uigradients",
+		"width": 50,
+		"height": 50
+	},
+	"unsplash": {
+		"name": "Unsplash",
+		"link": "unsplash.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-unsplash",
+		"width": 50,
+		"height": 50
+	},
+	"urbanfonts": {
+		"name": "UrbanFonts",
+		"link": "urbanfonts.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-urbanfonts",
+		"width": 50,
+		"height": 50
+	},
+	"vercel": {
+		"name": "Vercel",
+		"link": "vercel.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-vercel",
+		"width": 50,
+		"height": 50
+	},
+	"vk": {
+		"name": "VK",
+		"link": "vk.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-vk",
+		"width": 50,
+		"height": 50
+	},
+	"webfonts": {
+		"name": "WebFonts",
+		"link": "webfonts.ffonts.net",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-webfonts",
+		"width": 50,
+		"height": 50
+	},
+	"wikipedia": {
+		"name": "Wikipedia",
+		"link": "wikipedia.org",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-wikipedia",
+		"width": 50,
+		"height": 50
+	},
+	"youtube": {
+		"name": "YouTube",
+		"link": "youtube.com",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-youtube",
+		"width": 50,
+		"height": 50
+	},
+	"zoom": {
+		"name": "Zoom",
+		"link": "us05web.zoom.us/profile",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-vercel",
+		"width": 50,
+		"height": 50
+	},
+	"twitch": {
+		"name": "Twitch",
+		"link": "twitch.tv",
+		"svg": "./symbol-defs.4c6fa1d0.svg#icon-twitch",
+		"width": 50,
+		"height": 50
+	}
+}
