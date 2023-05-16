@@ -1,35 +1,34 @@
-'use strict';
+const main = document.querySelector('.main__list');
+import data from '../../user.json';
 
-const Handlebars = require('handlebars');
-const data = require('../../user.json').data;
-const main = document.querySelector('.main');
-import hbs from './templates/render.hbs';
+function getData() {
+	const valuesArray = Object.values(data);
 
-function renderHtml() {
-	const values = Object.values(data);
+	for (const item of valuesArray) {
+		let values = Object.values(item);
 
-	values
-		.map(item => {
-			console.log(item);
-			const markup = hbs(item);
-			main.innerHTML = markup;
-		})
-		.join(' ');
-}
-
-function addAnimations() {
-	for (let i = 0; i < 10; i++) {
-		const div = document.createElement('div');
-		div.classList.add('light', 'anim');
+		renderHtml(values);
 	}
 }
-addAnimations();
-renderHtml();
+
+function renderHtml(value) {
+	const [name, link, svg, width, height] = value;
+
+	const markup = `
+    <li class="main__item">
+      <a class='main__link' href='https://${link}' target='_blank' rel='noopener noreferrer nofollow'>
+        <svg class='main__svg' width='${width}' height='${height}' aria-label='${name} logo'>
+          <use xlink:href='${svg}'></use>
+        </svg>
+      </a>
+    </li>
+  `;
+	main.innerHTML = markup;
+}
+
+getData();
 
 /*
 fix
-  - добавить svg в prod
-  - поменять ссылки в ./design/design.md
-  - не работает addAnimations();
   - renderHtml(); добавляет только последний элемент обьекта
 */
