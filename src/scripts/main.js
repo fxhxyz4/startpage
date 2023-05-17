@@ -1,7 +1,7 @@
 const main = document.querySelector('.main__list');
 import data from '../../data/user.json';
 
-let svgUrl = `./symbol-defs.4c6fa1d0.svg#icon`;
+let svgUrl = `./symbol-defs.e96e8d9f.svg#icon`;
 let markup = ``;
 
 function getData() {
