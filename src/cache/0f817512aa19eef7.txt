@@ -1,15 +1,15 @@
-4702
+4700
 62D:\proj\StartPage\node_modules\svgo\lib\svgo\css-class-list.js133131067623970000 0
 90D:\proj\StartPage\node_modules\dom-serializer\node_modules\entities\lib\maps\entities.json133131067632190000 0
 49D:\proj\StartPage\node_modules\domelementtype\lib133223456980540517 1
 42D:\proj\StartPage\node_modules\buffer-from133223456927543022 1
 59D:\proj\StartPage\node_modules\binary-extensions\index.d.ts133093502142170000 0
-25D:\proj\StartPage\.github133223528628865634 1
+25D:\proj\StartPage\.github133288181754909923 1
 68D:\proj\StartPage\node_modules\caniuse-lite\data\features\dataset.js133223456874300000 0
 65D:\proj\StartPage\node_modules\css-select\lib\attributes.d.ts.map133131067625360000 0
 62D:\proj\StartPage\node_modules\sass\types\util\promise_or.d.ts133220713071580000 0
 44D:\proj\StartPage\src\img\svg\duckduckgo.svg133221465540000000 0
-36D:\proj\StartPage\src\pages\bug.html133288173386610436 0
+36D:\proj\StartPage\src\pages\bug.html133288176393191736 0
 55D:\proj\StartPage\node_modules\entities\lib\decode.d.ts133164569770550000 0
 87D:\proj\StartPage\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\030-config.md133164569708670000 0
 40D:\proj\StartPage\src\img\svg\vscode.svg133221465880000000 0
@@ -48,7 +48,7 @@
 59D:\proj\StartPage\node_modules\@parcel\workers\src\index.js133200395080960000 0
 78D:\proj\StartPage\node_modules\@parcel\transformer-html\src\HTMLTransformer.js133200395100740000 0
 69D:\proj\StartPage\node_modules\css-tree\lib\syntax\node\Percentage.js133131067625390000 0
-33D:\proj\StartPage\.prettierignore133220712614733421 0
+33D:\proj\StartPage\.prettierignore133288176355794234 0
 29D:\proj\StartPage\src\scripts133287261676765629 1
 37D:\proj\StartPage\src\img\svg\mdn.svg133221465880000000 0
 45D:\proj\StartPage\node_modules\yaml\types.mjs133131067615510000 0
@@ -97,7 +97,7 @@
 73D:\proj\StartPage\node_modules\@parcel\transformer-json\node_modules\.bin133288077701669446 1
 24D:\proj\StartPage\design133223539447427806 1
 38D:\proj\StartPage\node_modules\globals133223456929724426 1
-22D:\proj\StartPage\dist133288173845622309 1
+22D:\proj\StartPage\dist133288181826308901 1
 80D:\proj\StartPage\node_modules\@jridgewell\source-map\dist\source-map.umd.js.map133164569757630000 0
 50D:\proj\StartPage\src\styles\components\_main.scss133288155898404523 0
 68D:\proj\StartPage\node_modules\@swc\helpers\lib\_write_only_error.js133164569718570000 0
@@ -145,10 +145,10 @@
 69D:\proj\StartPage\node_modules\utility-types\dist\mapped-types.js.map133164569700500000 0
 43D:\proj\StartPage\src\img\svg\bitbucket.svg133221465540000000 0
 54D:\proj\StartPage\node_modules\sass\types\options.d.ts133220713071580000 0
-37D:\proj\StartPage\src\pages\hack.html133288171984878497 0
+37D:\proj\StartPage\src\pages\hack.html133288176085923561 0
 43D:\proj\StartPage\node_modules\import-fresh133223456929754350 1
 64D:\proj\StartPage\node_modules\@parcel\core\src\public\Bundle.js133200395069160000 0
-21D:\proj\StartPage\src133288173033126292 1
+21D:\proj\StartPage\src133288175868809291 1
 47D:\proj\StartPage\node_modules\posthtml\license133164569717340000 0
 72D:\proj\StartPage\node_modules\caniuse-lite\data\features\input-event.js133223456874300000 0
 61D:\proj\StartPage\node_modules\@parcel\core\src\serializer.js133200395069160000 0
@@ -177,7 +177,7 @@
 72D:\proj\StartPage\node_modules\@parcel\packager-html\lib\HTMLPackager.js133200395089230000 0
 58D:\proj\StartPage\node_modules\@parcel\transformer-css\src133223456985774973 1
 41D:\proj\StartPage\node_modules\is-extglob133223456929794243 1
-27D:\proj\StartPage\src\pages133288173033126292 1
+27D:\proj\StartPage\src\pages133288175868809291 1
 62D:\proj\StartPage\node_modules\caniuse-lite\data\regions\WF.js133223456874300000 0
 66D:\proj\StartPage\node_modules\update-browserslist-db\package.json133131067628050000 0
 55D:\proj\StartPage\node_modules\ansi-styles\package.json133087850616920000 0
@@ -214,7 +214,7 @@
 43D:\proj\StartPage\src\img\svg\fontspace.svg133221465540000000 0
 58D:\proj\StartPage\node_modules\react-error-overlay\LICENSE133164569715800000 0
 56D:\proj\StartPage\src\styles\components\_animations.scss133287284870667124 0
-37D:\proj\StartPage\src\scripts\main.js133288159658411795 0
+37D:\proj\StartPage\src\scripts\main.js133288180481928045 0
 58D:\proj\StartPage\node_modules\lightningcss-win32-x64-msvc133223456968345148 1
 52D:\proj\StartPage\node_modules\msgpackr\node_modules133288077703719565 1
 55D:\proj\StartPage\node_modules\posthtml-expressions\lib133288077115587261 1
@@ -238,7 +238,7 @@
 65D:\proj\StartPage\node_modules\caniuse-lite\data\features\wasm.js133223456874300000 0
 37D:\proj\StartPage\node_modules\@types133223456921158293 1
 80D:\proj\StartPage\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest3.c133164569735290000 0
-38D:\proj\StartPage\src\pages\fonts.html133288171950171767 0
+38D:\proj\StartPage\src\pages\fonts.html133288176447421344 0
 81D:\proj\StartPage\node_modules\caniuse-lite\data\features\document-execcommand.js133223456874300000 0
 77D:\proj\StartPage\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb.c133164569735290000 0
 51D:\proj\StartPage\node_modules\@parcel\hash\LICENSE133200395115040000 0
@@ -2390,7 +2390,7 @@
 77D:\proj\StartPage\node_modules\@parcel\core\test\fixtures\parcel\package.json133200395069160000 0
 68D:\proj\StartPage\node_modules\@parcel\source-map\dist\utils.js.flow133164569715720000 0
 118D:\proj\StartPage\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\package.json133200395125490000 0
-32D:\proj\StartPage\data\user.json133288155907780262 0
+32D:\proj\StartPage\data\user.json133288175189828447 0
 51D:\proj\StartPage\node_modules\domhandler\readme.md133131067626530000 0
 65D:\proj\StartPage\node_modules\@parcel\optimizer-htmlnano\LICENSE133200395081590000 0
 54D:\proj\StartPage\node_modules\is-arrayish\.travis.yml133120571352570000 0
@@ -2715,7 +2715,6 @@
 67D:\proj\StartPage\node_modules\@parcel\transformer-svg\node_modules133288077702237930 1
 68D:\proj\StartPage\node_modules\@parcel\package-manager\test\fixtures133223456923878145 1
 76D:\proj\StartPage\node_modules\csso\lib\restructure\2-initialMergeRuleset.js133131067625720000 0
-46D:\proj\StartPage\.github\workflows\deploy.yml133223530331720329 0
 71D:\proj\StartPage\node_modules\csso\lib\restructure\3-disjoinRuleset.js133131067625720000 0
 70D:\proj\StartPage\node_modules\csso\lib\restructure\6-restructBlock.js133131067625720000 0
 71D:\proj\StartPage\node_modules\caniuse-lite\data\features\webworkers.js133223456874300000 0
@@ -3312,7 +3311,7 @@
 61D:\proj\StartPage\node_modules\@babel\code-frame\lib\index.js133164569773170000 0
 82D:\proj\StartPage\node_modules\caniuse-lite\data\features\css-image-orientation.js133223456874300000 0
 80D:\proj\StartPage\node_modules\caniuse-lite\data\features\css-in-out-of-range.js133223456874300000 0
-41D:\proj\StartPage\dist\index.4ed98bf6.css133288173843272665 0
+41D:\proj\StartPage\dist\index.4ed98bf6.css133288181825979785 0
 95D:\proj\StartPage\node_modules\@parcel\workers\test\integration\workerfarm\master-process-id.js133200395080960000 0
 85D:\proj\StartPage\node_modules\caniuse-lite\data\features\css-indeterminate-pseudo.js133223456874300000 0
 72D:\proj\StartPage\node_modules\caniuse-lite\data\features\css-lch-lab.js133223456874300000 0
@@ -4693,11 +4692,10 @@
 46D:\proj\StartPage\node_modules\.bin\parcel.cmd133288077707190285 0
 44D:\proj\StartPage\node_modules\.bin\svgo.cmd133288077706821270 0
 42D:\proj\StartPage\node_modules\.bin\terser133288077706940952 0
-43D:\proj\StartPage\dist\favicon.35c66985.ico133288173843262683 0
-40D:\proj\StartPage\dist\index.468c551c.js133288173845572705 0
-33D:\proj\StartPage\dist\index.html133288173329771804 0
-47D:\proj\StartPage\dist\symbol-defs.4c6fa1d0.svg133288173845562470 0
+43D:\proj\StartPage\dist\favicon.35c66985.ico133288181826009709 0
+40D:\proj\StartPage\dist\index.468c551c.js133288181826009709 0
+33D:\proj\StartPage\dist\index.html133288181825979785 0
+47D:\proj\StartPage\dist\symbol-defs.4c6fa1d0.svg133288181825989760 0
 34D:\proj\StartPage\design\design.md133287239729240481 0
 39D:\proj\StartPage\.vscode\settings.json133223529975349210 0
 40D:\proj\StartPage\.github\dependabot.yml133220674906591441 0
-35D:\proj\StartPage\.github\workflows133223529433667443 1
