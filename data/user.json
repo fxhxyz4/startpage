@@ -50,14 +50,14 @@
 	},
 	"images": {
 		"name": "Images",
-		"link": "localhost:1010/images.html",
+		"link": "fxhxyz.vercel.app",
 		"svg": "images",
 		"width": 50,
 		"height": 50
 	},
 	"bug": {
 		"name": "Bug",
-		"link": "localhost:1010/bug.html",
+		"link": "fxhxyz.vercel.app",
 		"svg": "bug",
 		"width": 50,
 		"height": 50
@@ -134,7 +134,7 @@
 	},
 	"fonts": {
 		"name": "Fonts",
-		"link": "localhost:1010/fonts.html",
+		"link": "fxhxyz.vercel.app",
 		"svg": "font",
 		"width": 50,
 		"height": 50
@@ -351,14 +351,14 @@
 	},
 	"hack": {
 		"name": "hack",
-		"link": "localhost:1010/hack.html",
+		"link": "fxhxyz.vercel.app",
 		"svg": "tux",
 		"width": 50,
 		"height": 50
 	},
 	"youtube": {
 		"name": "YouTube",
-		"link": "localhost:1010/fonts.html",
+		"link": "fxhxyz.vercel.app",
 		"svg": "youtube",
 		"width": 50,
 		"height": 50
@@ -372,7 +372,7 @@
 	},
 	"code": {
 		"name": "Code",
-		"link": "localhost:1010/code.html",
+		"link": "fxhxyz.vercel.app",
 		"svg": "code",
 		"width": 50,
 		"height": 50
