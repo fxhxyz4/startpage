@@ -1,36 +1,8 @@
 {
-	"aws": {
-		"name": "AWS",
-		"link": "aws.amazon.com",
-		"svg": "aws",
-		"width": 50,
-		"height": 50
-	},
-	"azure": {
-		"name": "Azure",
-		"link": "azure.microsoft.com",
-		"svg": "azure",
-		"width": 50,
-		"height": 50
-	},
 	"behance": {
 		"name": "Behance",
 		"link": "behance.net",
 		"svg": "behance",
-		"width": 50,
-		"height": 50
-	},
-	"bitbucket": {
-		"name": "Bitbucket",
-		"link": "bitbucket.org",
-		"svg": "bitbucket",
-		"width": 50,
-		"height": 50
-	},
-	"cdnjs": {
-		"name": "cdnjs",
-		"link": "cdnjs.com",
-		"svg": "cdnjs",
 		"width": 50,
 		"height": 50
 	},
@@ -41,10 +13,52 @@
 		"width": 50,
 		"height": 50
 	},
-	"codeby": {
-		"name": "Codeby",
+	"azure": {
+		"name": "Azure",
+		"link": "azure.microsoft.com",
+		"svg": "azure",
+		"width": 50,
+		"height": 50
+	},
+	"gmail": {
+		"name": "Google mail",
+		"link": "mail.google.com",
+		"svg": "gmail",
+		"width": 50,
+		"height": 50
+	},
+	"cdnjs": {
+		"name": "cdnjs",
+		"link": "cdnjs.com",
+		"svg": "cdnjs",
+		"width": 50,
+		"height": 50
+	},
+	"google_drive": {
+		"name": "Google Drive",
+		"link": "google.com/drive",
+		"svg": "google-drive",
+		"width": 50,
+		"height": 50
+	},
+	"bitbucket": {
+		"name": "Bitbucket",
+		"link": "bitbucket.org",
+		"svg": "bitbucket",
+		"width": 50,
+		"height": 50
+	},
+	"images": {
+		"name": "Images",
+		"link": "localhost:1010/images.html",
+		"svg": "images",
+		"width": 50,
+		"height": 50
+	},
+	"bug": {
+		"name": "Bug",
 		"link": "localhost:1010/bug.html",
-		"svg": "codeby",
+		"svg": "bug",
 		"width": 50,
 		"height": 50
 	},
@@ -62,17 +76,17 @@
 		"width": 50,
 		"height": 50
 	},
+	"aws": {
+		"name": "AWS",
+		"link": "aws.amazon.com",
+		"svg": "aws",
+		"width": 50,
+		"height": 50
+	},
 	"cybershoke": {
 		"name": "Cybershoke",
 		"link": "cybershoke.net",
 		"svg": "cybershoke",
-		"width": 50,
-		"height": 50
-	},
-	"devdocs": {
-		"name": "DevDocs",
-		"link": "devdocs.io",
-		"svg": "devdocs",
 		"width": 50,
 		"height": 50
 	},
@@ -83,10 +97,24 @@
 		"width": 50,
 		"height": 50
 	},
+	"devdocs": {
+		"name": "DevDocs",
+		"link": "devdocs.io",
+		"svg": "devdocs",
+		"width": 50,
+		"height": 50
+	},
 	"evernote": {
 		"name": "Evernote",
 		"link": "evernote.com",
 		"svg": "evernote",
+		"width": 50,
+		"height": 50
+	},
+	"leetcode": {
+		"name": "Leetcode",
+		"link": "leetcode.com",
+		"svg": "leetcode",
 		"width": 50,
 		"height": 50
 	},
@@ -104,38 +132,17 @@
 		"width": 50,
 		"height": 50
 	},
+	"fonts": {
+		"name": "Fonts",
+		"link": "localhost:1010/fonts.html",
+		"svg": "font",
+		"width": 50,
+		"height": 50
+	},
 	"fastly": {
 		"name": "Fastly",
 		"link": "fastly.com",
 		"svg": "fastly",
-		"width": 50,
-		"height": 50
-	},
-	"favicon_generator": {
-		"name": "FaviconGenerator",
-		"link": "localhost:1010/images.html",
-		"svg": "favicon-generator",
-		"width": 50,
-		"height": 50
-	},
-	"figma": {
-		"name": "Figma",
-		"link": "figma.com",
-		"svg": "figma",
-		"width": 50,
-		"height": 50
-	},
-	"fontawesome": {
-		"name": "FontAwesome",
-		"link": "fontawesome",
-		"svg": "fontawesome",
-		"width": 50,
-		"height": 50
-	},
-	"freefonts": {
-		"name": "FreeFonts",
-		"link": "localhost:1010/fonts.html",
-		"svg": "freefonts",
 		"width": 50,
 		"height": 50
 	},
@@ -146,10 +153,10 @@
 		"width": 50,
 		"height": 50
 	},
-	"gdocs": {
-		"name": "Google Docs",
-		"link": "docs.google.com",
-		"svg": "gdocs",
+	"jsfiddle": {
+		"name": "JSFiddle",
+		"link": "jsfiddle.net",
+		"svg": "jsfiddle",
 		"width": 50,
 		"height": 50
 	},
@@ -160,17 +167,24 @@
 		"width": 50,
 		"height": 50
 	},
-	"gmail": {
-		"name": "Google mail",
-		"link": "mail.google.com",
-		"svg": "gmail",
+	"heroku": {
+		"name": "Heroku",
+		"link": "heroku.com",
+		"svg": "heroku",
 		"width": 50,
 		"height": 50
 	},
-	"google_drive": {
-		"name": "Google Drive",
-		"link": "google.com/drive",
-		"svg": "google-drive",
+	"gdocs": {
+		"name": "Google Docs",
+		"link": "docs.google.com",
+		"svg": "gdocs",
+		"width": 50,
+		"height": 50
+	},
+	"mega": {
+		"name": "Mega",
+		"link": "mega.io",
+		"svg": "mega",
 		"width": 50,
 		"height": 50
 	},
@@ -181,17 +195,10 @@
 		"width": 50,
 		"height": 50
 	},
-	"fonts_google": {
-		"name": "Google Fonts",
-		"link": "fonts.google.com",
-		"svg": "googlefonts",
-		"width": 50,
-		"height": 50
-	},
-	"heroku": {
-		"name": "Heroku",
-		"link": "heroku.com",
-		"svg": "heroku",
+	"loom": {
+		"name": "loom",
+		"link": "loom.com",
+		"svg": "loom",
 		"width": 50,
 		"height": 50
 	},
@@ -209,31 +216,10 @@
 		"width": 50,
 		"height": 50
 	},
-	"jsfiddle": {
-		"name": "JSFiddle",
-		"link": "jsfiddle.net",
-		"svg": "jsfiddle",
-		"width": 50,
-		"height": 50
-	},
-	"leetcode": {
-		"name": "Leetcode",
-		"link": "leetcode.com",
-		"svg": "leetcode",
-		"width": 50,
-		"height": 50
-	},
 	"linkedin": {
 		"name": "LinkedIn",
 		"link": "linkedin.com",
 		"svg": "linkedin",
-		"width": 50,
-		"height": 50
-	},
-	"loom": {
-		"name": "loom",
-		"link": "loom.com",
-		"svg": "loom",
 		"width": 50,
 		"height": 50
 	},
@@ -244,10 +230,10 @@
 		"width": 50,
 		"height": 50
 	},
-	"mega": {
-		"name": "Mega",
-		"link": "mega.io",
-		"svg": "mega",
+	"unsplash": {
+		"name": "Unsplash",
+		"link": "unsplash.com",
+		"svg": "unsplash",
 		"width": 50,
 		"height": 50
 	},
@@ -265,27 +251,6 @@
 		"width": 50,
 		"height": 50
 	},
-	"npm": {
-		"name": "Npm",
-		"link": "npmjs.com",
-		"svg": "npm",
-		"width": 50,
-		"height": 50
-	},
-	"pinterest": {
-		"name": "Pinterest",
-		"link": "pinterest.com",
-		"svg": "pinterest",
-		"width": 50,
-		"height": 50
-	},
-	"proton_calendar": {
-		"name": "Proton Calendar",
-		"link": "proton.me/calendar",
-		"svg": "proton-calendar",
-		"width": 50,
-		"height": 50
-	},
 	"proton_mail": {
 		"name": "Proton Mail",
 		"link": "proton.me/mail",
@@ -297,6 +262,13 @@
 		"name": "Reddit",
 		"link": "reddit.com",
 		"svg": "reddit",
+		"width": 50,
+		"height": 50
+	},
+	"proton_calendar": {
+		"name": "Proton Calendar",
+		"link": "proton.me/calendar",
+		"svg": "proton-calendar",
 		"width": 50,
 		"height": 50
 	},
@@ -314,10 +286,10 @@
 		"width": 50,
 		"height": 50
 	},
-	"stackoverflow": {
-		"name": "StackOverflow",
-		"link": "stackoverflow.com",
-		"svg": "stackoverflow",
+	"npm": {
+		"name": "Npm",
+		"link": "npmjs.com",
+		"svg": "npm",
 		"width": 50,
 		"height": 50
 	},
@@ -328,17 +300,17 @@
 		"width": 50,
 		"height": 50
 	},
+	"hackerrank": {
+		"name": "Hackerrank",
+		"link": "hackerrank.com",
+		"svg": "hackerrank",
+		"width": 50,
+		"height": 50
+	},
 	"trello": {
 		"name": "Trello",
 		"link": "trello.com",
 		"svg": "trello",
-		"width": 50,
-		"height": 50
-	},
-	"unsplash": {
-		"name": "Unsplash",
-		"link": "unsplash.com",
-		"svg": "unsplash",
 		"width": 50,
 		"height": 50
 	},
@@ -349,24 +321,31 @@
 		"width": 50,
 		"height": 50
 	},
+	"archive": {
+		"name": "Archive",
+		"link": "archive.com",
+		"svg": "archive",
+		"width": 50,
+		"height": 50
+	},
+	"stackoverflow": {
+		"name": "StackOverflow",
+		"link": "stackoverflow.com",
+		"svg": "stackoverflow",
+		"width": 50,
+		"height": 50
+	},
+	"pinterest": {
+		"name": "Pinterest",
+		"link": "pinterest.com",
+		"svg": "pinterest",
+		"width": 50,
+		"height": 50
+	},
 	"vk": {
 		"name": "VK",
 		"link": "vk.com",
 		"svg": "vk",
-		"width": 50,
-		"height": 50
-	},
-	"wikipedia": {
-		"name": "Wikipedia",
-		"link": "wikipedia.org",
-		"svg": "wikipedia",
-		"width": 50,
-		"height": 50
-	},
-	"youtube": {
-		"name": "YouTube",
-		"link": "localhost:1010/fonts.html",
-		"svg": "youtube",
 		"width": 50,
 		"height": 50
 	},
@@ -377,10 +356,31 @@
 		"width": 50,
 		"height": 50
 	},
+	"youtube": {
+		"name": "YouTube",
+		"link": "localhost:1010/fonts.html",
+		"svg": "youtube",
+		"width": 50,
+		"height": 50
+	},
 	"habr": {
 		"name": "Habr",
 		"link": "habr.com",
 		"svg": "habr",
+		"width": 50,
+		"height": 50
+	},
+	"code": {
+		"name": "Code",
+		"link": "localhost:1010/code.html",
+		"svg": "code",
+		"width": 50,
+		"height": 50
+	},
+	"wikipedia": {
+		"name": "Wikipedia",
+		"link": "wikipedia.org",
+		"svg": "wikipedia",
 		"width": 50,
 		"height": 50
 	}
