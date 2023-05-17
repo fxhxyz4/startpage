@@ -19,7 +19,7 @@ function renderHtml(values) {
 
 	markup = `
     <li class="main__item">
-      <a class='main__link' href='http://${link}' target='_blank' rel='noopener noreferrer nofollow'>
+      <a class='main__link' href='https://${link}' target='_blank' rel='noopener noreferrer nofollow'>
         <svg class='main__svg' width='${width}' height='${height}' aria-label='${name} logo'>
           <use xlink:href='${svgUrl}-${svgName}'></use>
         </svg>
