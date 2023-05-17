@@ -1,8 +1,10 @@
 .footer {
 	@include dflex;
 	margin: 0 auto;
+
 	height: 96px;
 	width: 846px;
+
 	border: 2px solid $stroke;
 	border-radius: 22px;
 }
@@ -12,21 +14,23 @@
 }
 
 .footer__item {
-	margin-right: 22px;
 	width: 70px;
 	height: 68px;
+
+	margin-right: 22px;
 	border-radius: 10px;
+
 	background-color: $default-item;
 	transition: background-color 0.4s ease;
 
 	&:last-child {
 		margin-right: 0;
 	}
+}
 
-	&:hover,
-	&:focus {
-		background-color: $item-hover;
-	}
+.footer__item:hover,
+.footer__item:focus {
+	background-color: $item-hover;
 }
 
 .footer__link {
