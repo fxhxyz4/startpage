@@ -8,20 +8,22 @@
 
 .main__list {
 	@include dflex;
-	padding-top: 50px;
-	padding-bottom: 50px;
+	flex-wrap: wrap;
+	padding-top: 30px;
+	padding-bottom: 30px;
 }
 
 .main__item {
 	@include dflex;
 	margin-right: 22px;
+	margin-bottom: 22px;
 	width: 80px;
 	height: 80px;
 	border-radius: 10px;
 	background-color: $default-item;
 	transition: background-color 0.4s ease;
 
-	&:last-child {
+	&:nth-child(11n) {
 		margin-right: 0;
 	}
 

@@ -1,27 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-		<meta charset="UTF-8" />
-		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<meta name="robots" content="noindex,nofollow" />
-		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
-		<link type="text/css" rel="stylesheet" href="./styles/index.scss" />
-		<link type="image/x-icon" rel="shortcut icon" href="./img/favicon.ico" />
-		<script type="module" defer src="./scripts/main.js"></script>
-		<title>StartPage</title>
-	</head>
+<include src="./partials/head.html"></include>
 	<body class="animate__animated animate__fadeIn animate__slower">
 		<noscript><strong>We're sorry but this site doesn't work properly without JavaScript enabled.</strong></noscript>
-		<div class='light x1'></div>
-		<div class='light x2'></div>
-		<div class='light x3'></div>
-		<div class='light x4'></div>
-		<div class='light x5'></div>
-		<div class='light x6'></div>
-		<div class='light x7'></div>
-		<div class='light x8'></div>
-		<div class='light x9'></div>
+		<include src="./partials/animate.html"></include>
 		<div class="wrapper">
 			<main class="main">
 				<div class="main__container">
@@ -30,73 +10,7 @@
 					</ul>
 				</div>
 			</main>
-			<footer class="footer">
-					<ul class="footer__list">
-						<li class="footer__item">
-							<a class="footer__link" href="https://twitch.tv/" target="_blank" rel="noopener noreferrer nofollow">
-								<svg class="footer__svg" width="48" height="48" aria-label="twitch logo">
-									<use xlink:href="./img/symbol-defs.svg#icon-twitch"></use>
-								</svg>
-							</a>
-						</li>
-						<li class="footer__item">
-							<a class="footer__link" href="https://github.com/" target="_blank" rel="noopener noreferrer nofollow">
-								<svg class="footer__svg" width="50" height="50" aria-label="github logo">
-									<use xlink:href="./img/symbol-defs.svg#icon-github"></use>
-								</svg>
-							</a>
-						</li>
-						<li class="footer__item">
-							<a class="footer__link" href="https://gitlab.com/" target="_blank" rel="noopener noreferrer nofollow">
-								<svg class="footer__svg" width="46" height="46" aria-label="gitlab logo">
-									<use xlink:href="./img/symbol-defs.svg#icon-gitlab"></use>
-								</svg>
-							</a>
-						</li>
-						<li class="footer__item">
-							<a class="footer__link" href="https://deviantart.com/" target="_blank" rel="noopener noreferrer nofollow">
-								<svg class="footer__svg" width="43" height="43" aria-label="deviantart logo">
-									<use xlink:href="./img/symbol-defs.svg#icon-deviantart"></use>
-								</svg>
-							</a>
-						</li>
-						<li class="footer__item">
-							<a class="footer__link" href="https://codewars.com/" target="_blank" rel="noopener noreferrer nofollow">
-								<svg class="footer__svg" width="42" height="42" aria-label="codewars logo">
-									<use xlink:href="./img/symbol-defs.svg#icon-codewars"></use>
-								</svg>
-							</a>
-						</li>
-						<li class="footer__item">
-							<a class="footer__link" href="https://figma.com/" target="_blank" rel="noopener noreferrer nofollow">
-								<svg class="footer__svg" width="50" height="50" aria-label="figma logo">
-									<use xlink:href="./img/symbol-defs.svg#icon-figma"></use>
-								</svg>
-							</a>
-						</li>
-						<li class="footer__item">
-							<a class="footer__link" href="https://open.spotify.com/" target="_blank" rel="noopener noreferrer nofollow">
-								<svg class="footer__svg" width="42" height="42" aria-label="spotify logo">
-									<use xlink:href="./img/symbol-defs.svg#icon-spotify"></use>
-								</svg>
-							</a>
-						</li>
-						<li class="footer__item">
-							<a class="footer__link" href="https://twitter.com/" target="_blank" rel="noopener noreferrer nofollow">
-								<svg class="footer__svg" width="45" height="45" aria-label="twitter logo">
-									<use xlink:href="./img/symbol-defs.svg#icon-twitter"></use>
-								</svg>
-							</a>
-						</li>
-						<li class="footer__item">
-							<a class="footer__link" href="https://notion.so/" target="_blank" rel="noopener noreferrer nofollow">
-								<svg class="footer__svg" width="45" height="45" aria-label="notion logo">
-									<use xlink:href="./img/symbol-defs.svg#icon-notion"></use>
-								</svg>
-							</a>
-						</li>
-					</ul>
-			</footer>
+			<include src="./partials/footer.html"></include>
 		</div>
 	</body>
 </html>

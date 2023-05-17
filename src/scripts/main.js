@@ -1,6 +1,9 @@
 const main = document.querySelector('.main__list');
 import data from '../../data/user.json';
 
+let svgUrl = `./symbol-defs.4c6fa1d0.svg#icon`;
+let markup = ``;
+
 function getData() {
 	const valuesArray = Object.values(data);
 
@@ -11,24 +14,20 @@ function getData() {
 	}
 }
 
-function renderHtml(value) {
-	const [name, link, svg, width, height] = value;
+function renderHtml(values) {
+	const [name, link, svgName, width = 50, height = 50] = values;
 
-	const markup = `
+	markup = `
     <li class="main__item">
-      <a class='main__link' href='https://${link}' target='_blank' rel='noopener noreferrer nofollow'>
+      <a class='main__link' href='http://${link}' target='_blank' rel='noopener noreferrer nofollow'>
         <svg class='main__svg' width='${width}' height='${height}' aria-label='${name} logo'>
-          <use xlink:href='${svg}'></use>
+          <use xlink:href='${svgUrl}-${svgName}'></use>
         </svg>
       </a>
     </li>
   `;
-	main.innerHTML = markup;
+
+	main.insertAdjacentHTML('beforeend', markup);
 }
 
 getData();
-
-/*
-fix
-  - renderHtml(); добавляет только последний элемент обьекта
-*/
