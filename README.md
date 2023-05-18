@@ -1,4 +1,4 @@
-## Beautiful and modern [start-page](fxhxyz4.github.io/startpage).
+## Modern [start-page](fxhxyz4.github.io/startpage).
 
 ### ![GitHub package.json version (subfolder of monorepo)](https://img.shields.io/github/package-json/v/fxhxyz4/startpage) ![GitHub](https://img.shields.io/github/license/fxhxyz4/startpage) ![Website](https://img.shields.io/website?url=https%3A%2F%2Ffxhxyz4.github.io%2Fstartpage)
 
