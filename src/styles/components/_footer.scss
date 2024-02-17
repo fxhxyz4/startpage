@@ -3,7 +3,7 @@
 	margin: 0 auto;
 
 	height: 96px;
-	width: 846px;
+	width: 766px;
 
 	border: 2px solid $stroke;
 	border-radius: 22px;
@@ -16,6 +16,8 @@
 .footer__item {
 	width: 70px;
 	height: 68px;
+
+	@include dflex;
 
 	margin-right: 22px;
 	border-radius: 10px;
@@ -34,6 +36,12 @@
 }
 
 .footer__link {
-	@include dflex;
+	display: flex;
+	align-items: center;
 	padding: 10px;
+	cursor: pointer;
+}
+
+.footer__svg {
+	fill: white !important;
 }
