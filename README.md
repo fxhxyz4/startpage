@@ -1,6 +1,6 @@
 ## Modern [start-page](fxhxyz4.github.io/startpage).
 
-### ![GitHub package.json version (subfolder of monorepo)](https://img.shields.io/github/package-json/v/fxhxyz4/startpage) ![GitHub](https://img.shields.io/github/license/fxhxyz4/startpage) ![Website](https://img.shields.io/website?url=https%3A%2F%2Ffxhxyz4.github.io%2Fstartpage)
+### [![Netlify Status](https://api.netlify.com/api/v1/badges/1b02c830-3e14-46b5-82d8-f7d022f3cf99/deploy-status)](https://app.netlify.com/sites/startpage-beta/deploys) ![GitHub package.json version (subfolder of monorepo)](https://img.shields.io/github/package-json/v/fxhxyz4/startpage) ![GitHub](https://img.shields.io/github/license/fxhxyz4/startpage) ![Website](https://img.shields.io/website?url=https%3A%2F%2Ffxhxyz4.github.io%2Fstartpage)
 
 ### ![image.png](./assets/image.png)
 
