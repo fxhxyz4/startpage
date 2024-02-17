@@ -29,9 +29,9 @@
 	],
 	"license": "ISC",
 	"scripts": {
-		"dev": "parcel ./src/index.html --dist-dir dist --cache-dir ./src/cache --no-source-maps -p 1324",
-		"watch": "parcel watch ./src/index.html --dist-dir dist --cache-dir ./src/cache --no-source-maps",
-		"build": "parcel build ./src/index.html --public-url /startpage/ --cache-dir ./src/cache --no-source-maps --dist-dir build"
+		"dev": "parcel --no-content-hash ./src/index.html --dist-dir dist --cache-dir ./src/cache --no-source-maps -p 1324",
+		"watch": "parcel watch --no-content-hash ./src/index.html --dist-dir dist --cache-dir ./src/cache --no-source-maps",
+		"build": "parcel build --no-content-hash ./src/img/symbol-defs.svg --public-url ./ --cache-dir ./src/cache --no-source-maps --dist-dir build && parcel build --no-content-hash ./src/index.html --public-url ./ --cache-dir ./src/cache --no-source-maps --dist-dir build"
 	},
 	"devDependencies": {
 		"@parcel/packager-raw-url": "^2.9.2",

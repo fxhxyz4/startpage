@@ -4,7 +4,7 @@ const main = document.querySelector('.main__list');
 const time = document.querySelector('.main__time');
 const link = document.querySelectorAll('.footer__link');
 
-let svgUrl = './symbol-defs.4c6fa1d0.svg#icon';
+let svgUrl = './symbol-defs.svg#icon';
 let markup = '';
 
 link.forEach((l) => {
