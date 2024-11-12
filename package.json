@@ -34,7 +34,7 @@
 		"build": "parcel build --no-content-hash ./src/img/symbol-defs.svg --public-url ./ --cache-dir ./src/cache --no-source-maps --dist-dir build && parcel build --no-content-hash ./src/index.html --public-url ./ --cache-dir ./src/cache --no-source-maps --dist-dir build"
 	},
 	"devDependencies": {
-		"@parcel/packager-raw-url": "^2.9.2",
+		"@parcel/packager-raw-url": "^2.13.0",
 		"@parcel/transformer-json": "^2.8.3",
 		"@parcel/transformer-sass": "2.9.2",
 		"@parcel/transformer-webmanifest": "^2.8.3",
