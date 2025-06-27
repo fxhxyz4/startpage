@@ -12,7 +12,7 @@
 	"type": "module",
 	"author": {
 		"name": "fxhxyz4",
-		"email": "fxhxyz@proton.me",
+		"email": "fxhsec@proton.me",
 		"url": "https://fxhxyz.vercel.app/"
 	},
 	"homepage": "https://fxhxyz4.github.io/startpage/",
@@ -24,7 +24,7 @@
 	"maintainers": [
 		{
 			"name": "fxhxyz4",
-			"email": "fxhxyz@proton.me"
+			"email": "fxhsec@proton.me"
 		}
 	],
 	"license": "ISC",
